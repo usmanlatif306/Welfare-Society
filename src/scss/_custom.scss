@@ -1,0 +1,47 @@
+// Here you can add other styles
+.pointer {
+  cursor: pointer;
+}
+
+.account__div {
+  width: 50%;
+}
+.width__search {
+  width: 25%;
+}
+.semi-bold {
+  font-weight: 600;
+}
+.bill__detail__img {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.image__overrelay {
+  position: fixed;
+  top: 0;
+  z-index: 99999;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(77, 107, 107, 0.26);
+}
+.image__overrelay i {
+  position: absolute;
+  right: 27%;
+}
+.img__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.image__overrelay img {
+  width: 40%;
+  border-radius: 10px;
+}
+.ck-content {
+  height: 200px;
+}

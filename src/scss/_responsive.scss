@@ -1,0 +1,28 @@
+@media screen and (max-width: 1200px) {
+  .image__overrelay i {
+    top: 2%;
+    right: 5%;
+  }
+  .image__overrelay img {
+    width: 90%;
+    height: 85%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .account__div {
+    width: 100%;
+  }
+  .width__search {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .image__overrelay i {
+    top: 6%;
+    right: 5%;
+  }
+  .image__overrelay img {
+    width: 95%;
+    height: 80%;
+  }
+}
